@@ -41,7 +41,7 @@
 
 
   <div class="footer">
-    <a href="https://github.com/BYU-CS-260-Winter-2020/lab-4-museum-of-ordinary-objects-Shawn45.git">Github Repository</a>
+    <a href="https://github.com/Shawn45/cp4.git">Github Repository</a>
   </div>
 </div>
 </template>
